@@ -22,4 +22,15 @@ Tools Used: VMware Workstation, Ubuntu, Wireshark
 Skills Demonstrated: Network analysis, protocol inspection, packet capture, basic cybersecurity concepts
 
 
+DNS:
 
+![DNS](https://github.com/dominic-milone/Basic-Network-Traffic-Analysis-Lab/blob/main/dns%20network%20lab.png?raw=true)
+
+TCP:
+
+![TCP](https://github.com/dominic-milone/Basic-Network-Traffic-Analysis-Lab/blob/main/tcp%20network%20lab.png?raw=true)
+
+
+ICMP:
+
+![ICMP](https://github.com/dominic-milone/Basic-Network-Traffic-Analysis-Lab/blob/main/icmp%20ping.png?raw=true)
