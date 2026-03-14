@@ -22,4 +22,4 @@ Tools Used: VMware Workstation, Ubuntu, Wireshark
 Skills Demonstrated: Network analysis, protocol inspection, packet capture, basic cybersecurity concepts
 
 
-DNS:
+
